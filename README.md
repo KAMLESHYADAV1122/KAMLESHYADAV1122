@@ -1,62 +1,69 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Kamlesh+Yadav;Java+Developer+%7C+Spring+Boot+Lover;Frontend+%2B+Backend+Enthusiast;Love+to+build+cool+projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kamlesh+Yadav" alt="Typing Blue" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=DB4437&center=true&vCenter=true&width=500&lines=Java+Developer+%7C+Spring+Boot+Lover" alt="Typing Red" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F4B400&center=true&vCenter=true&width=500&lines=Frontend+%2B+Backend+Enthusiast" alt="Typing Yellow" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=0F9D58&center=true&vCenter=true&width=500&lines=Love+to+build+cool+projects!" alt="Typing Green" />
 </h1>
 
-<p align="center">
-  <img src="https://github.com/kamleshyadav1122/kamleshyadav1122/blob/main/banner.gif" width="100%" alt="Banner">
+
+---
+
+### 💡 About Me
+
+- 🔭 Currently building Java and Spring Boot-based web applications  
+- 🌱 Learning: Clean Code, REST APIs, and scalable backend architecture  
+- 💬 Ask me about Java, Spring Boot, MySQL, or full-stack projects  
+- 🧠 Exploring frontend tools like HTML, CSS, and JavaScript  
+- ⚡ Fun fact: I love painting in my free time!
+
+---
+
+### 🛠 Tech Stack
+
+*Languages & Frameworks*  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</p>
+
+*Tools & IDEs*  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-## 🧠 About Me
+### 📈 GitHub Stats
 
-- 🔭 Currently working on Full Stack Projects using **Java + Spring Boot + MySQL**
-- 🌱 Exploring **Microservices**, **REST APIs**, and **Cloud Deployments**
-- 🧩 I love solving real-world problems using code
-
----
-
-## ⚒️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github&perline=6" />
-</div>
+![Kamlesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamleshyadav1122&show_icons=true&theme=github_dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshyadav1122&layout=compact&theme=github_dark)
 
 ---
 
-## 📊 GitHub Stats (Dynamic + Animated)
+### 🚀 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamleshyadav1122&show_icons=true&theme=radical&count_private=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshyadav1122&layout=compact&theme=radical" height="200"/>
+- 🔹 *Online Education Website* – Django project with full authentication and admin panel  
+- 🔹 *Stock Maintenance System* – Java J2EE-based inventory tool (also being developed in Django)  
+- 🔹 *Smart Farming Monitor* – Web dashboard for IoT-based farming data
+
+---
+
+### 📬 Connect With Me
+
+<p>
+  <a href="mailto:kamleshyadav1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kamleshyadav1122" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/kamleshyadav1122" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamleshyadav1122&theme=darkhub&row=1&column=6" />
-</p>
-
----
-
-## 🚀 Projects (with Emojis)
-
-- 📘 **Online Education Website** – `Python Django`, `CRUD`, `Authentication`, `Web UI`
-- 📦 **Stock Maintenance System** – `Java/J2EE` → now converting to `Django Web App`
-- 🌿 **Smart Farming Monitor** – `IoT + Web`, track sensors in real time
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="mailto:kamleshyadav1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kamleshyadav1122/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/kamleshyadav1122"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-> 💬 *“Code, Learn, Build, Repeat.”*
+> 💬 "Keep building. Keep learning. Keep evolving."
