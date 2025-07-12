@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kamlesh+Yadav" />
   </div>
   <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=DB4437&center=true&vCenter=true&width=500&lines=Java+Developer+%7C+Spring+Boot+Lover" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=DB4437&center=true&vCenter=true&width=500&lines=Java+Developer+%7C" />
   </div>
   <div>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F4B400&center=true&vCenter=true&width=500&lines=Frontend+%2B+Backend+Enthusiast" />
