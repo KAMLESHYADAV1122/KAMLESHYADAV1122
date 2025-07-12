@@ -1,9 +1,18 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kamlesh+Yadav" alt="Typing Blue" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=DB4437&center=true&vCenter=true&width=500&lines=Java+Developer+%7C+Spring+Boot+Lover" alt="Typing Red" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F4B400&center=true&vCenter=true&width=500&lines=Frontend+%2B+Backend+Enthusiast" alt="Typing Yellow" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=0F9D58&center=true&vCenter=true&width=500&lines=Love+to+build+cool+projects!" alt="Typing Green" />
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kamlesh+Yadav" />
+  </div>
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=DB4437&center=true&vCenter=true&width=500&lines=Java+Developer+%7C+Spring+Boot+Lover" />
+  </div>
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F4B400&center=true&vCenter=true&width=500&lines=Frontend+%2B+Backend+Enthusiast" />
+  </div>
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=0F9D58&center=true&vCenter=true&width=500&lines=Love+to+build+cool+projects!" />
+  </div>
 </h1>
+
 
 
 ---
