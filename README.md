@@ -1,6 +1,6 @@
 <h1 align="center">
   <div>
-    <h1 align="center" style="color:#4285F4;">Hi 👋 I'm Kamlesh Yadav</h1>
+    <h2 align="center" style="color:#4285F4;">Hi 👋 I'm Kamlesh Yadav</h2>
   </div>
   <div>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=DB4437&center=true&vCenter=true&width=500&lines=Java+Developer" />
